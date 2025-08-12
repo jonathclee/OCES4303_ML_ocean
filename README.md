@@ -2,7 +2,7 @@
 
 NOTE: I happen to be using some data relevant to ocean science, otherwise the "Ocean Science" bit is neither here nor there.
 
-Material mostly in the notebooks. At least three known ways of running these:
+Material mostly in the notebooks, but some are in the lecture slides themselves (mostly the theory parts). At least three known ways of running these:
 
 1) On your computer, by downloading the pack (there should be a green "code" button near the top right of this page, click it and there should be "download")
 
@@ -22,23 +22,27 @@ Will not be touching on LLMs here. Core topics are:
 2. Regression, statistics/probability, data scaling and cross-validation
 3. Linear models and dimension reduction
 4. Clustering
-5. Decision Trees
-6. Random Forests + Gradient Boosting
-7. Neural Networks
-8. Convolutional Neural Networks
-9. Encoders + transformers
-10. Recurrent Neural Networks + LSTMs
+5. Classification problems
+6. Decision Trees
+7. Random Forests + Gradient Boosting
+8. Neural Networks
+9. Convolutional Neural Networks
+10. Some other neural network architectures
 
 Extra topics to include AI + Ethics, PINNs, SINDy, online learning, diffusion models, GANs, TDA, others that I feel like at some point.
 
-### Other resources I've found
+### Other resources of use
 
-TO ADD
+There are already quite a lot of Google and YouTube resources to be honest. Ones I used enough times beyond entries on Wikpiedia, Medium and StackOverflow for writing this course are the following:
 
-<!--* [Ryan Abernathey](https://github.com/rabernat)'s [Earth and Environmental Data Science course](https://earth-env-data-science.github.io/intro.html)-->
+* [Brunton & Kutz book](https://databookuw.com/)
+* [scikit-learn manual](https://scikit-learn.org/stable/)
+* [Michael Pyrcz](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)
+* [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
 ### known things to add/check:
 
 * yaml and environment files
 * all notebooks to run on Colab with modulo additiongs of `!pip` + will remote load data appropriately
+
 
